@@ -6,6 +6,6 @@ Sorry everything is in French!!!!!
 
 
 http://amethyste16.wordpress.com/2014/10/02/les-nouveaux-chemins-vers-lasynchronisme-i/
-
+http://amethyste16.wordpress.com/2014/10/03/les-nouveaux-chemins-vers-lasynchronisme-ii/
 
 
