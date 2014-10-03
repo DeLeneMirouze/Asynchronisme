@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApmPattern", "ApmPattern\ApmPattern.csproj", "{A27F6125-2F69-4191-8A51-855653D7911F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EapPattern", "EapPattern\EapPattern.csproj", "{57F63A30-94A1-49EA-B09D-0C586367FC3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A27F6125-2F69-4191-8A51-855653D7911F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27F6125-2F69-4191-8A51-855653D7911F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27F6125-2F69-4191-8A51-855653D7911F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F63A30-94A1-49EA-B09D-0C586367FC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F63A30-94A1-49EA-B09D-0C586367FC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F63A30-94A1-49EA-B09D-0C586367FC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F63A30-94A1-49EA-B09D-0C586367FC3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
